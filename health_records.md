@@ -72,12 +72,6 @@ Center for Medicare and Medicade Services inspection reports
 * _The Dallas Morning News_ [First, do no harm](http://www.dallasnews.com/investigations/patient-safety/) ongoing
 
 
-
-FDA regulatory filings
--------------------
-* _Milwaukee Journal-Sentinel_ [Doctors didn't disclose spine product cancer risk in journal](http://www.jsonline.com/watchdog/watchdogreports/doctors-didnt-disclose-spine-product-cancer-risk-in-journal-132391068.html) 2011.10.22
-
-
 State health regulator investigations
 ---------------
 * _The Morning Call_ [Hospital misprogrammed pain pumps, gave overdoses](http://articles.mcall.com/2012-01-27/news/mc-bethlehem-stlukes-overdose-20120126_1_overdose-medical-errors-patients) 2012.01.27
@@ -101,7 +95,6 @@ PACER: https://pacer.login.uscourts.gov/cgi-bin/login.pl?court_id=00IDX
 * _Reuters_ [Shell companies bleed millions from Medicare](http://www.reuters.com/article/2011/12/21/us-shellcompanies-medicare-idUSTRE7BK0PY20111221) 2011.12.21
 
 
-
 Drug company payments to doctors
 -----------------
 ProPublica: http://projects.propublica.org/docdollars/
@@ -110,5 +103,14 @@ ProPublica: http://projects.propublica.org/docdollars/
 * _Milwaukee Journal-Sentinel_ [Painkiller boom fueled by UW profs](http://www.jsonline.com/watchdog/watchdogreports/119130114.html) 2011.04.02
 
 
+FDA regulatory filings
+-------------------
+* _Milwaukee Journal-Sentinel_ [Doctors didn't disclose spine product cancer risk in journal](http://www.jsonline.com/watchdog/watchdogreports/doctors-didnt-disclose-spine-product-cancer-risk-in-journal-132391068.html) 2011.10.22
+
+
+
+
 --
 For this page go to: http://bit.ly/ire12health
+
+to suggest more resources email daniel.lathrop@gmail.com
