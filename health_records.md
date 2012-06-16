@@ -65,7 +65,8 @@ Medicare billing data
 
 Center for Medicare and Medicade Services inspection reports
 --------------
-* 
+* _The Dallas Morning News_ [First, do no harm](http://www.dallasnews.com/investigations/patient-safety/) ongoing
+
 
 
 FDA regulatory filings
@@ -76,7 +77,7 @@ FDA regulatory filings
 State health regulator investigations
 ---------------
 * _The Morning Call_ [Hospital misprogrammed pain pumps, gave overdoses](http://articles.mcall.com/2012-01-27/news/mc-bethlehem-stlukes-overdose-20120126_1_overdose-medical-errors-patients) 2012.01.27
-* _The Dallas Morning News_ [First, do no harm](http://www.dallasnews.com/investigations/patient-safety/)
+* _The Dallas Morning News_ [First, do no harm](http://www.dallasnews.com/investigations/patient-safety/) ongoing
 
 Death certificates and autopsy findings
 ----------------
