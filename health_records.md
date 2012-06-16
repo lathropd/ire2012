@@ -1,42 +1,34 @@
 Using public records to shine a light on the dark side of the healthcare crisis
 ====================
-**_Health Is Everything: Using Data to Report Great Stories on Your Community's Health_** by Frank Bass
+ **_Health Is Everything: Using Data to Report Great Stories on Your Community's Health_** by Frank Bass
  http://www.reportingonhealth.org/reporting-community-health
-
-**IRE Tipsheets**
- http://www.ire.org/resource-center/tipsheets/
-
-
+ 
 
 State/Local financial records
 ----------
 Reporters Committee of Freedom of the Press: http://www.rcfp.org/open-government-guide
-
 * _Milwaukee Journal-Sentinel_ [Painkiller boom fueled by UW profs](http://www.jsonline.com/watchdog/watchdogreports/119130114.html) 2011.04.02
 * _The Dallas Morning News_: [Med school/hospital spending broke rules](http://www.dallasnews.com/investigations/headlines/20120429-utsw-spending-broke-rules.ece) 2012.04.29
 
 
 Lobbying records
 ------------
-Center for Responsive Politics: http://www.opensecrets.org/lobby/
-
-US Senate Office of Public Records: http://www.senate.gov/pagelayout/legislative/g_three_sections_with_teasers/lobbyingdisc.htm
-
-US House Clerk: http://disclosures.house.gov/ld/ldsearch.aspx
+ Center for Responsive Politics: http://www.opensecrets.org/lobby/
+ US Senate Office of Public Records: http://www.senate.gov/pagelayout/legislative/g_three_sections_with_teasers/lobbyingdisc.htm
+ US House Clerk: http://disclosures.house.gov/ld/ldsearch.aspx
 
 
 FDA Adverse Event Reporting System
 ---------
-FDA: http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Surveillance/AdverseDrugEffects/ucm082193.htm
-
-IRE data library: http://www.ire.org/nicar/database-library/databases/fda-adverse-events-reporting-system/
+ FDA: http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Surveillance/AdverseDrugEffects/ucm082193.htm
+ IRE data library: http://www.ire.org/nicar/database-library/databases/fda-adverse-events-reporting-system/
 * _The New York Times_ [Hip Implant Complaints Surge, Even as the Dangers Are Studied](http://www.nytimes.com/2011/08/23/business/complaints-soar-on-hip-implants-as-dangers-are-studied.html?_r=2&pagewanted=1)
 
 
 FDA MAUDE - Manufacturer and User Facility Device Experience
 --------------
-IRE: http://www.ire.org/nicar/database-library/databases/medical-device-reports-maude/
-FDA: http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfMAUDE/search.CFM
+ IRE: http://www.ire.org/nicar/database-library/databases/medical-device-reports-maude/
+ FDA: http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfMAUDE/search.CFM
 *
 
 State-level hospital discharge data
@@ -51,7 +43,6 @@ CMS Discharge Data
 
 National Practitioner Data Bank
 ------------
-HHS: http://www.npdb-hipdb.hrsa.gov/resources/publicDataStatement.jsp
 * _The Kansas City Star_ [Secrecy protects doctors with long histories of problems](http://www.kansascity.com/2011/12/17/3325411/secrecy-protects-problem-doctors.html) 2011.12.17
 
 
@@ -98,4 +89,5 @@ Drug company payments to doctors
 -----------------
 ProPublica: http://projects.propublica.org/docdollars/
 * _ProPublica_: [Dollars for Docs]http://www.propublica.org/series/dollars-for-docs) 2010.10.18
-
+* _ProPublica_: [The Champion of Painkillers](http://www.propublica.org/article/the-champion-of-painkillers) 2011.12.23
+* _Milwaukee Journal-Sentinel_ [Painkiller boom fueled by UW profs](http://www.jsonline.com/watchdog/watchdogreports/119130114.html) 2011.04.02
