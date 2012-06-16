@@ -1,12 +1,15 @@
-Using public records to shinea light on the dark side of the healthcare crisis
+Using public records to shine a light on the dark side of the healthcare crisis
 ====================
 
 State/Local financial records
 ----------
-* _Milwaukee Jounral-Sentinel_ [Painkiller boom fueled by UW profs](http://www.jsonline.com/watchdog/watchdogreports/119130114.html) 2011.04.02
+* _Milwaukee Journal-Sentinel_ [Painkiller boom fueled by UW profs](http://www.jsonline.com/watchdog/watchdogreports/119130114.html) 2011.04.02
 * _The Dallas Morning News_: [Med school/hospital spending broke rules](http://www.dallasnews.com/investigations/headlines/20120429-utsw-spending-broke-rules.ece) 2012.04.29
 * 
 
+Lobbying records
+------------
+* 
 
 FDA Adverse Event Reporting System
 ---------
