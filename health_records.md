@@ -60,6 +60,7 @@ CMS Discharge Data
 
 National Practitioner Data Bank
 ------------
+IRE: http://www.ire.org/nicar/database-library/national-practitioner-data-bank/
 * _The Kansas City Star_ [Secrecy protects doctors with long histories of problems](http://www.kansascity.com/2011/12/17/3325411/secrecy-protects-problem-doctors.html) 2011.12.17
 
 
