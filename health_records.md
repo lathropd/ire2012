@@ -105,7 +105,7 @@ Campaign Finance and Lobbying records
 ------------
 Center for Responsive Politics:http://www.opensecrets.org/usearch/
 
-National Insitute on Money and State Politices: http://www.followthemoney.org/database/advancedsearch.phtml
+National Insitute on Money and State Politics: http://www.followthemoney.org/database/advancedsearch.phtml
 
 US Senate Office of Public Records: http://www.senate.gov/pagelayout/legislative/g_three_sections_with_teasers/lobbyingdisc.htm
 
