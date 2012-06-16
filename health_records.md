@@ -56,17 +56,13 @@ State-level hospital discharge data
 * _Seattle Times_  [Methadone and the Politics of Pain](http://seattletimes.nwsource.com/flatpages/specialreports/methadone/methadoneandthepoliticsofpain.html) 2011.12.10
 
 
-CMS Discharge Data
------------
-
-
 National Practitioner Data Bank
 ------------
 IRE: http://www.ire.org/nicar/database-library/national-practitioner-data-bank/
 * _The Kansas City Star_ [Secrecy protects doctors with long histories of problems](http://www.kansascity.com/2011/12/17/3325411/secrecy-protects-problem-doctors.html) 2011.12.17
 
 
-Medicare billing data
+Medicare billing/discharge data
 --------------
 * _The Wall Street Journal_ [Excessive billing by NYC doctors](http://online.wsj.com/article/SB10001424052748704696304575538112856615900-search.html) 2010.10.25
 * _California Watch_ [Prime Healthcare's treatment of rare ailments stands out](http://californiawatch.org/health-and-welfare/prime-healthcares-treatment-rare-ailments-stands-out-13021) 2011.10.14
