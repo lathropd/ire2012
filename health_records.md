@@ -3,15 +3,20 @@ Using public records to shine a light on the dark side of the healthcare crisis
 
 State/Local financial records
 ----------
+Reporters Committee of Freedom of the Press: http://www.rcfp.org/open-government-guide
+
 * _Milwaukee Journal-Sentinel_ [Painkiller boom fueled by UW profs](http://www.jsonline.com/watchdog/watchdogreports/119130114.html) 2011.04.02
 * _The Dallas Morning News_: [Med school/hospital spending broke rules](http://www.dallasnews.com/investigations/headlines/20120429-utsw-spending-broke-rules.ece) 2012.04.29
-* 
+
 
 Lobbying records
 ------------
 Center for Responsive Politics: http://www.opensecrets.org/lobby/
-US Senate Office of Public Records: (http://www.senate.gov/pagelayout/legislative/g_three_sections_with_teasers/lobbyingdisc.htm)
-US House Clerk: 
+
+US Senate Office of Public Records: http://www.senate.gov/pagelayout/legislative/g_three_sections_with_teasers/lobbyingdisc.htm
+
+US House Clerk: http://disclosures.house.gov/ld/ldsearch.aspx
+
 * 
 
 FDA Adverse Event Reporting System
