@@ -1,10 +1,10 @@
 Using public records to shine a light on the dark side of the healthcare crisis
 ====================
- **_Health Is Everything: Using Data to Report Great Stories on Your Community's Health_** by Frank Bass
- http://www.reportingonhealth.org/reporting-community-health
- 
  **Association of Health Care Journalists**
   http://www.healthjournalism.org/resources-jump.php
+
+**_Health Is Everything: Using Data to Report Great Stories on Your Community's Health_** by Frank Bass
+ http://www.reportingonhealth.org/reporting-community-health
  
  
  
