@@ -9,15 +9,24 @@ State/Local financial records
 
 Lobbying records
 ------------
+Center for Responsive Politics: http://www.opensecrets.org/lobby/
+US Senate Office of Public Records: `http://www.senate.gov/pagelayout/legislative/g_three_sections_with_teasers/lobbyingdisc.htm`
+US House Clerk: 
 * 
 
 FDA Adverse Event Reporting System
 ---------
+FDA: http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Surveillance/AdverseDrugEffects/ucm082193.htm
+IRE data library: http://www.ire.org/nicar/database-library/databases/fda-adverse-events-reporting-system/
 * _The New York Times_ [Hip Implant Complaints Surge, Even as the Dangers Are Studied](http://www.nytimes.com/2011/08/23/business/complaints-soar-on-hip-implants-as-dangers-are-studied.html?_r=2&pagewanted=1)
 
-State-level hospital disclosure data
+State-level hospital discharge data
 ------------
 * _The Dallas Morning News_ [Parkland in Dallas has been among Texas' worst hospitals for patient safety for years, analysis shows](http://www.dallasnews.com/investigations/patient-safety/headlines/20111015-parkland-in-dallas-has-been-among-texas-worst-hospitals-for-patient-safety-for-years-analysis-shows.ece) 2011.10.16
+
+
+CMS Discharge Data
+-----------
 
 
 National Practitioner Data Bank
