@@ -112,3 +112,7 @@ ProPublica: http://projects.propublica.org/docdollars/
 * _ProPublica_: [Dollars for Docs]http://www.propublica.org/series/dollars-for-docs) 2010.10.18
 * _ProPublica_: [The Champion of Painkillers](http://www.propublica.org/article/the-champion-of-painkillers) 2011.12.23
 * _Milwaukee Journal-Sentinel_ [Painkiller boom fueled by UW profs](http://www.jsonline.com/watchdog/watchdogreports/119130114.html) 2011.04.02
+
+
+--
+For this page go to: http://bit.ly/ire12health
