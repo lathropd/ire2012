@@ -6,14 +6,11 @@ State/Local financial records
 * _Milwaukee Jounral-Sentinel_ [Painkiller boom fueled by UW profs](http://www.jsonline.com/watchdog/watchdogreports/119130114.html) 2011.04.02
 * _The Dallas Morning News_: [Med school/hospital spending broke rules](http://www.dallasnews.com/investigations/headlines/20120429-utsw-spending-broke-rules.ece) 2012.04.29
 * 
-* 
-* 
-* 
-* 
 
 
+FDA Adverse Event Reporting System
 ---------
-* http://www.nytimes.com/2011/08/23/business/complaints-soar-on-hip-implants-as-dangers-are-studied.html?_r=2&pagewanted=1
+* _The New York Times_ [Hip Implant Complaints Surge, Even as the Dangers Are Studied](http://www.nytimes.com/2011/08/23/business/complaints-soar-on-hip-implants-as-dangers-are-studied.html?_r=2&pagewanted=1)
 
 State-level hospital disclosure data
 ------------
