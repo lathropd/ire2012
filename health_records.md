@@ -10,7 +10,7 @@ State/Local financial records
 Lobbying records
 ------------
 Center for Responsive Politics: http://www.opensecrets.org/lobby/
-US Senate Office of Public Records: `http://www.senate.gov/pagelayout/legislative/g_three_sections_with_teasers/lobbyingdisc.htm`
+US Senate Office of Public Records: (http://www.senate.gov/pagelayout/legislative/g_three_sections_with_teasers/lobbyingdisc.htm)
 US House Clerk: 
 * 
 
