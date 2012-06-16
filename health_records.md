@@ -24,13 +24,6 @@ Foundation Center: http://foundationcenter.org/findfunders/990finder/
 * _KUOW_: [Hospital high rollers](http://www.kuow.org/program.php?id=22143) 2010.12.20
 
 
-Lobbying records
-------------
-Center for Responsive Politics: http://www.opensecrets.org/lobby/
-
-US Senate Office of Public Records: http://www.senate.gov/pagelayout/legislative/g_three_sections_with_teasers/lobbyingdisc.htm
-
-US House Clerk: http://disclosures.house.gov/ld/ldsearch.aspx
 
 
 FDA Adverse Event Reporting System
@@ -106,6 +99,19 @@ ProPublica: http://projects.propublica.org/docdollars/
 FDA regulatory filings
 -------------------
 * _Milwaukee Journal-Sentinel_ [Doctors didn't disclose spine product cancer risk in journal](http://www.jsonline.com/watchdog/watchdogreports/doctors-didnt-disclose-spine-product-cancer-risk-in-journal-132391068.html) 2011.10.22
+
+
+Campaign Finance and Lobbying records
+------------
+Center for Responsive Politics:http://www.opensecrets.org/usearch/
+
+National Insitute on Money and State Politices: http://www.followthemoney.org/database/advancedsearch.phtml
+
+US Senate Office of Public Records: http://www.senate.gov/pagelayout/legislative/g_three_sections_with_teasers/lobbyingdisc.htm
+
+US House Clerk: http://disclosures.house.gov/ld/ldsearch.aspx
+
+Federal Election Commission: http://www.fec.gov/disclosure.shtml
 
 
 
