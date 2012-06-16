@@ -11,23 +11,35 @@ Reporters Committee of Freedom of the Press: http://www.rcfp.org/open-government
 * _The Dallas Morning News_: [Med school/hospital spending broke rules](http://www.dallasnews.com/investigations/headlines/20120429-utsw-spending-broke-rules.ece) 2012.04.29
 
 
+IRS Form 990
+------------
+Guidestar: http://www.guidestar.org/
+
+Foundation Center: http://foundationcenter.org/findfunders/990finder/
+* _KUOW_: [Hospital high rollers](http://www.kuow.org/program.php?id=22143) 2010.12.20
+
+
 Lobbying records
 ------------
- Center for Responsive Politics: http://www.opensecrets.org/lobby/
- US Senate Office of Public Records: http://www.senate.gov/pagelayout/legislative/g_three_sections_with_teasers/lobbyingdisc.htm
- US House Clerk: http://disclosures.house.gov/ld/ldsearch.aspx
+Center for Responsive Politics: http://www.opensecrets.org/lobby/
+
+US Senate Office of Public Records: http://www.senate.gov/pagelayout/legislative/g_three_sections_with_teasers/lobbyingdisc.htm
+
+US House Clerk: http://disclosures.house.gov/ld/ldsearch.aspx
 
 
 FDA Adverse Event Reporting System
 ---------
- FDA: http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Surveillance/AdverseDrugEffects/ucm082193.htm
- IRE data library: http://www.ire.org/nicar/database-library/databases/fda-adverse-events-reporting-system/
+FDA: http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Surveillance/AdverseDrugEffects/ucm082193.htm
+
+IRE data library: http://www.ire.org/nicar/database-library/databases/fda-adverse-events-reporting-system/
 * _The New York Times_ [Hip Implant Complaints Surge, Even as the Dangers Are Studied](http://www.nytimes.com/2011/08/23/business/complaints-soar-on-hip-implants-as-dangers-are-studied.html?_r=2&pagewanted=1)
 
 
 FDA MAUDE - Manufacturer and User Facility Device Experience
 --------------
  IRE: http://www.ire.org/nicar/database-library/databases/medical-device-reports-maude/
+ 
  FDA: http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfMAUDE/search.CFM
 *
 
@@ -64,7 +76,7 @@ FDA regulatory filings
 State health regulator investigations
 ---------------
 * _The Morning Call_ [Hospital misprogrammed pain pumps, gave overdoses](http://articles.mcall.com/2012-01-27/news/mc-bethlehem-stlukes-overdose-20120126_1_overdose-medical-errors-patients) 2012.01.27
-
+* _The Dallas Morning News_ [First, do no harm](http://www.dallasnews.com/investigations/patient-safety/)
 
 Death certificates and autopsy findings
 ----------------
