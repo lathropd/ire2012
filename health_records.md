@@ -1,4 +1,4 @@
-Using Public Records to Investigate the Healthcare Crisis
+Using public records to shinea light on the dark side of the healthcare crisis
 ====================
 
 State/Local financial records
@@ -10,7 +10,15 @@ State/Local financial records
 * 
 * 
 * 
-* 
+
+
+---------
+* http://www.nytimes.com/2011/08/23/business/complaints-soar-on-hip-implants-as-dangers-are-studied.html?_r=2&pagewanted=1
+
+State-level hospital disclosure data
+------------
+* _The Dallas Morning News_ [Parkland in Dallas has been among Texas' worst hospitals for patient safety for years, analysis shows](http://www.dallasnews.com/investigations/patient-safety/headlines/20111015-parkland-in-dallas-has-been-among-texas-worst-hospitals-for-patient-safety-for-years-analysis-shows.ece) 2011.10.16
+
 
 National Practitioner Data Bank
 ------------
