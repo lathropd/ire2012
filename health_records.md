@@ -19,7 +19,8 @@ National Practitioner Data Bank
 
 Medicare billing data
 --------------
-* _The Wall Street Journal_ [Excessive billing by doctors](http://online.wsj.com/article/SB10001424052748704696304575538112856615900-search.html) 2010.10.25
+* _The Wall Street Journal_ [Excessive billing by NYC doctors](http://online.wsj.com/article/SB10001424052748704696304575538112856615900-search.html) 2010.10.25
+* _California Watch_ [Prime Healthcare's treatment of rare ailments stands out](http://californiawatch.org/health-and-welfare/prime-healthcares-treatment-rare-ailments-stands-out-13021) 2011.10.14
 
 Center for Medicare and Medicade Services inspection reports
 --------------
@@ -30,7 +31,7 @@ Center for Medicare and Medicade Services inspection reports
 
 FDA regulatory filings
 -------------------
-* _Milwaukee Journal-Sentinel_ [Doctors didn't disclose spine product cancer risk in journal](http://www.jsonline.com/watchdog/watchdogreports/doctors-didnt-disclose-spine-product-cancer-risk-in-journal-132391068.html)
+* _Milwaukee Journal-Sentinel_ [Doctors didn't disclose spine product cancer risk in journal](http://www.jsonline.com/watchdog/watchdogreports/doctors-didnt-disclose-spine-product-cancer-risk-in-journal-132391068.html) 2011.10.22
 
 
 State health regulator investigations
