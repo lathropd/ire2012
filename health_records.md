@@ -100,6 +100,12 @@ FDA regulatory filings
 * _Milwaukee Journal-Sentinel_ [Doctors didn't disclose spine product cancer risk in journal](http://www.jsonline.com/watchdog/watchdogreports/doctors-didnt-disclose-spine-product-cancer-risk-in-journal-132391068.html) 2011.10.22
 
 
+CMS Dialysis Data
+------------------
+ProPublica: http://projects.propublica.org/dialysis/
+* _ProPublica_ [Dialysis High Costs and Hidden Perils of a Treatment Guaranteed to All](http://www.propublica.org/series/dialysis) 2010.12.15
+
+
 Campaign Finance and Lobbying records
 ------------
 Center for Responsive Politics:http://www.opensecrets.org/usearch/
