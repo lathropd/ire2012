@@ -1,5 +1,8 @@
 Using public records to shine a light on the dark side of the healthcare crisis
 ====================
+**_Health Is Everything: Using Data to Report Great Stories on Your Community's Health_** by Frank Bass
+ http://www.reportingonhealth.org/reporting-community-health
+
 
 State/Local financial records
 ----------
@@ -17,7 +20,6 @@ US Senate Office of Public Records: http://www.senate.gov/pagelayout/legislative
 
 US House Clerk: http://disclosures.house.gov/ld/ldsearch.aspx
 
-* 
 
 FDA Adverse Event Reporting System
 ---------
@@ -25,6 +27,13 @@ FDA: http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Surveillan
 
 IRE data library: http://www.ire.org/nicar/database-library/databases/fda-adverse-events-reporting-system/
 * _The New York Times_ [Hip Implant Complaints Surge, Even as the Dangers Are Studied](http://www.nytimes.com/2011/08/23/business/complaints-soar-on-hip-implants-as-dangers-are-studied.html?_r=2&pagewanted=1)
+
+
+FDA MAUDE - Manufacturer and User Facility Device Experience
+--------------
+IRE: http://www.ire.org/nicar/database-library/databases/medical-device-reports-maude/
+FDA: http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfMAUDE/search.CFM
+*
 
 State-level hospital discharge data
 ------------
@@ -72,15 +81,16 @@ U.S. Drug Enforcement Administration called Automation of Reports and Consolidat
 * _Seattle Times_  [Methadone and the Politics of Pain](http://seattletimes.nwsource.com/flatpages/specialreports/methadone/methadoneandthepoliticsofpain.html) 2011.12.10
 * _Investigate West_ [Deadly painkiller overdoses](http://www.invw.org/prescription-epidemic) 2012.01.22
 
-* 
 
 Court records
 ------------
 PACER: https://pacer.login.uscourts.gov/cgi-bin/login.pl?court_id=00IDX
 * _Reuters_ [Shell companies bleed millions from Medicare](http://www.reuters.com/article/2011/12/21/us-shellcompanies-medicare-idUSTRE7BK0PY20111221) 2011.12.21
-* 
-* 
 
-[Dollars for Docs (by ProPublica)](http://www.propublica.org/series/dollars-for-docs)
+
+
+Drug company payments to doctors
 -----------------
+ProPublica: http://projects.propublica.org/docdollars/
+* _ProPublica_: [Dollars for Docs]http://www.propublica.org/series/dollars-for-docs) 2010.10.18
 
