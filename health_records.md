@@ -3,6 +3,10 @@ Using public records to shine a light on the dark side of the healthcare crisis
 **_Health Is Everything: Using Data to Report Great Stories on Your Community's Health_** by Frank Bass
  http://www.reportingonhealth.org/reporting-community-health
 
+**IRE Tipsheets**
+ http://www.ire.org/resource-center/tipsheets/
+
+
 
 State/Local financial records
 ----------
@@ -47,6 +51,7 @@ CMS Discharge Data
 
 National Practitioner Data Bank
 ------------
+HHS: http://www.npdb-hipdb.hrsa.gov/resources/publicDataStatement.jsp
 * _The Kansas City Star_ [Secrecy protects doctors with long histories of problems](http://www.kansascity.com/2011/12/17/3325411/secrecy-protects-problem-doctors.html) 2011.12.17
 
 
