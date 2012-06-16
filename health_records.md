@@ -73,6 +73,7 @@ DEA Prescription data
 
 Court records
 ------------
+PACER: https://pacer.login.uscourts.gov/cgi-bin/login.pl?court_id=00IDX
 * _Reuters_ [Shell companies bleed millions from Medicare](http://www.reuters.com/article/2011/12/21/us-shellcompanies-medicare-idUSTRE7BK0PY20111221) 2011.12.21
 * 
 * 
