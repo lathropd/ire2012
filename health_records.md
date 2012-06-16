@@ -6,7 +6,41 @@ Using public records to shine a light on the dark side of the healthcare crisis
 **_Health Is Everything: Using Data to Report Great Stories on Your Community's Health_** by Frank Bass
  http://www.reportingonhealth.org/reporting-community-health
  
- 
+
+CMS Dialysis Data
+------------------
+ProPublica: http://projects.propublica.org/dialysis/
+* _ProPublica_ [Dialysis High Costs and Hidden Perils of a Treatment Guaranteed to All](http://www.propublica.org/series/dialysis) 2010.12.15
+
+
+HHS Office of the Inspector General audits and memos
+---------------
+OIG: http://oig.hhs.gov/reports-and-publications/index.asp
+
+
+Government Accoutability Office reports
+------------
+GAO: http://www.gao.gov/search?advanced=1
+
+
+
+State-level hospital discharge data
+------------
+* _The Dallas Morning News_ [Parkland in Dallas has been among Texas' worst hospitals for patient safety for years, analysis shows](http://www.dallasnews.com/investigations/patient-safety/headlines/20111015-parkland-in-dallas-has-been-among-texas-worst-hospitals-for-patient-safety-for-years-analysis-shows.ece) 2011.10.16
+* _Seattle Times_  [Methadone and the Politics of Pain](http://seattletimes.nwsource.com/flatpages/specialreports/methadone/methadoneandthepoliticsofpain.html) 2011.12.10
+
+
+Center for Medicare and Medicade Services inspection reports
+--------------
+* _The Dallas Morning News_ [First, do no harm](http://www.dallasnews.com/investigations/patient-safety/) ongoing
+
+
+State health regulator investigations
+---------------
+* _The Morning Call_ [Hospital misprogrammed pain pumps, gave overdoses](http://articles.mcall.com/2012-01-27/news/mc-bethlehem-stlukes-overdose-20120126_1_overdose-medical-errors-patients) 2012.01.27
+* _The Dallas Morning News_ [First, do no harm](http://www.dallasnews.com/investigations/patient-safety/) ongoing
+
+
  
 
 State/Local financial records
@@ -42,12 +76,6 @@ FDA MAUDE - Manufacturer and User Facility Device Experience
  FDA: http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfMAUDE/search.CFM
 *
 
-State-level hospital discharge data
-------------
-* _The Dallas Morning News_ [Parkland in Dallas has been among Texas' worst hospitals for patient safety for years, analysis shows](http://www.dallasnews.com/investigations/patient-safety/headlines/20111015-parkland-in-dallas-has-been-among-texas-worst-hospitals-for-patient-safety-for-years-analysis-shows.ece) 2011.10.16
-* _Seattle Times_  [Methadone and the Politics of Pain](http://seattletimes.nwsource.com/flatpages/specialreports/methadone/methadoneandthepoliticsofpain.html) 2011.12.10
-
-
 National Practitioner Data Bank
 ------------
 IRE: http://www.ire.org/nicar/database-library/national-practitioner-data-bank/
@@ -59,15 +87,6 @@ Medicare billing/discharge data
 * _The Wall Street Journal_ [Excessive billing by NYC doctors](http://online.wsj.com/article/SB10001424052748704696304575538112856615900-search.html) 2010.10.25
 * _California Watch_ [Prime Healthcare's treatment of rare ailments stands out](http://californiawatch.org/health-and-welfare/prime-healthcares-treatment-rare-ailments-stands-out-13021) 2011.10.14
 
-Center for Medicare and Medicade Services inspection reports
---------------
-* _The Dallas Morning News_ [First, do no harm](http://www.dallasnews.com/investigations/patient-safety/) ongoing
-
-
-State health regulator investigations
----------------
-* _The Morning Call_ [Hospital misprogrammed pain pumps, gave overdoses](http://articles.mcall.com/2012-01-27/news/mc-bethlehem-stlukes-overdose-20120126_1_overdose-medical-errors-patients) 2012.01.27
-* _The Dallas Morning News_ [First, do no harm](http://www.dallasnews.com/investigations/patient-safety/) ongoing
 
 Death certificates and autopsy findings
 ----------------
@@ -98,12 +117,6 @@ ProPublica: http://projects.propublica.org/docdollars/
 FDA regulatory filings
 -------------------
 * _Milwaukee Journal-Sentinel_ [Doctors didn't disclose spine product cancer risk in journal](http://www.jsonline.com/watchdog/watchdogreports/doctors-didnt-disclose-spine-product-cancer-risk-in-journal-132391068.html) 2011.10.22
-
-
-CMS Dialysis Data
-------------------
-ProPublica: http://projects.propublica.org/dialysis/
-* _ProPublica_ [Dialysis High Costs and Hidden Perils of a Treatment Guaranteed to All](http://www.propublica.org/series/dialysis) 2010.12.15
 
 
 Campaign Finance and Lobbying records
