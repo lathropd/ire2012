@@ -22,6 +22,7 @@ US House Clerk: http://disclosures.house.gov/ld/ldsearch.aspx
 FDA Adverse Event Reporting System
 ---------
 FDA: http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Surveillance/AdverseDrugEffects/ucm082193.htm
+
 IRE data library: http://www.ire.org/nicar/database-library/databases/fda-adverse-events-reporting-system/
 * _The New York Times_ [Hip Implant Complaints Surge, Even as the Dangers Are Studied](http://www.nytimes.com/2011/08/23/business/complaints-soar-on-hip-implants-as-dangers-are-studied.html?_r=2&pagewanted=1)
 
