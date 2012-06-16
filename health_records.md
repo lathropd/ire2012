@@ -3,16 +3,42 @@ Using Public Records to Investigate the Healthcare Crisis
 
 State/Local financial records
 ----------
-* 2011.04.02 _Milwaukee Jounral-Sentinel_: [Painkiller boom fueled by UW profs](http://www.jsonline.com/watchdog/watchdogreports/119130114.html)
-* 2012.04.29 _The Dallas Morning News_: [UTSW spending broke rules](http://www.dallasnews.com/investigations/headlines/20120429-utsw-spending-broke-rules.ece)
+* _Milwaukee Jounral-Sentinel_ [Painkiller boom fueled by UW profs](http://www.jsonline.com/watchdog/watchdogreports/119130114.html) 2011.04.02
+* _The Dallas Morning News_: [Med school/hospital spending broke rules](http://www.dallasnews.com/investigations/headlines/20120429-utsw-spending-broke-rules.ece) 2012.04.29
 * 
 * 
 * 
 * 
 * 
+* 
+
+
+Center for Medicare and Medicade Services inspection reports
+--------------
+* 
+* 
+* 
+* 
+
+
+State health regulator investigations
+---------------
+* _The Morning Call_ [Hospital misprogrammed pain pumps, gave overdoses](http://articles.mcall.com/2012-01-27/news/mc-bethlehem-stlukes-overdose-20120126_1_overdose-medical-errors-patients) 2012.01.27
 * 
 
 
 Medical journal disclosures
 ----------
-* 2011.04.02 [Milwaukee Jounral-Sentiner painkiller boom fueled by UW profs](http://www.jsonline.com/watchdog/watchdogreports/119130114.html)
+* _Milwaukee Jounral-Sentinel_ [Painkiller boom fueled by UW profs](http://www.jsonline.com/watchdog/watchdogreports/119130114.html) 2011.04.02
+* 
+* 
+
+DEA Prescription data
+------------
+* _Investigate West_ [Deadly painkiller overdoses](http://www.invw.org/prescription-epidemic) 2012.01.22
+* 
+* 
+
+Court records
+------------
+* _Reuters_ [Shell companies bleed millions from Medicare](http://www.reuters.com/article/2011/12/21/us-shellcompanies-medicare-idUSTRE7BK0PY20111221) 2011.12.21
