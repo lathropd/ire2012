@@ -34,7 +34,6 @@ IRE data library: http://www.ire.org/nicar/database-library/databases/fda-advers
 * _The New York Times_ [Hip Implant Complaints Surge, Even as the Dangers Are Studied](http://www.nytimes.com/2011/08/23/business/complaints-soar-on-hip-implants-as-dangers-are-studied.html?_r=2&pagewanted=1)
 
 
-For this pae go to: http://bit.ly/ire12health
 
 FDA MAUDE - Manufacturer and User Facility Device Experience
 --------------
