@@ -29,6 +29,7 @@ IRE data library: http://www.ire.org/nicar/database-library/databases/fda-advers
 State-level hospital discharge data
 ------------
 * _The Dallas Morning News_ [Parkland in Dallas has been among Texas' worst hospitals for patient safety for years, analysis shows](http://www.dallasnews.com/investigations/patient-safety/headlines/20111015-parkland-in-dallas-has-been-among-texas-worst-hospitals-for-patient-safety-for-years-analysis-shows.ece) 2011.10.16
+* _Seattle Times_  [Methadone and the Politics of Pain](http://seattletimes.nwsource.com/flatpages/specialreports/methadone/methadoneandthepoliticsofpain.html) 2011.12.10
 
 
 CMS Discharge Data
@@ -48,9 +49,7 @@ Medicare billing data
 Center for Medicare and Medicade Services inspection reports
 --------------
 * 
-* 
-* 
-* 
+
 
 FDA regulatory filings
 -------------------
@@ -60,15 +59,19 @@ FDA regulatory filings
 State health regulator investigations
 ---------------
 * _The Morning Call_ [Hospital misprogrammed pain pumps, gave overdoses](http://articles.mcall.com/2012-01-27/news/mc-bethlehem-stlukes-overdose-20120126_1_overdose-medical-errors-patients) 2012.01.27
-* 
 
 
+Death certificates and autopsy findings
+----------------
+IRE: http://www.ire.org/nicar/database-library/databases/mortality-multiple-causes-of-death/
+* _Seattle Times_  [Methadone and the Politics of Pain](http://seattletimes.nwsource.com/flatpages/specialreports/methadone/methadoneandthepoliticsofpain.html) 2011.12.10
 
 
-DEA Prescription data
+U.S. Drug Enforcement Administration called Automation of Reports and Consolidate Orders System (ARCOS)
 ------------
+* _Seattle Times_  [Methadone and the Politics of Pain](http://seattletimes.nwsource.com/flatpages/specialreports/methadone/methadoneandthepoliticsofpain.html) 2011.12.10
 * _Investigate West_ [Deadly painkiller overdoses](http://www.invw.org/prescription-epidemic) 2012.01.22
-* 
+
 * 
 
 Court records
