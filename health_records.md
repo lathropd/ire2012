@@ -17,12 +17,20 @@ National Practitioner Data Bank
 * _The Kansas City Star_ [Secrecy protects doctors with long histories of problems](http://www.kansascity.com/2011/12/17/3325411/secrecy-protects-problem-doctors.html) 2011.12.17
 
 
+Medicare billing data
+--------------
+* _The Wall Street Journal_ [Excessive billing by doctors](http://online.wsj.com/article/SB10001424052748704696304575538112856615900-search.html) 2010.10.25
+
 Center for Medicare and Medicade Services inspection reports
 --------------
 * 
 * 
 * 
 * 
+
+FDA regulatory filings
+-------------------
+* _Milwaukee Journal-Sentinel_ [Doctors didn't disclose spine product cancer risk in journal](http://www.jsonline.com/watchdog/watchdogreports/doctors-didnt-disclose-spine-product-cancer-risk-in-journal-132391068.html)
 
 
 State health regulator investigations
@@ -31,11 +39,7 @@ State health regulator investigations
 * 
 
 
-Medical journal disclosures
-----------
-* _Milwaukee Jounral-Sentinel_ [Painkiller boom fueled by UW profs](http://www.jsonline.com/watchdog/watchdogreports/119130114.html) 2011.04.02
-* 
-* 
+
 
 DEA Prescription data
 ------------
