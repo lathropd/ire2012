@@ -56,3 +56,9 @@ DEA Prescription data
 Court records
 ------------
 * _Reuters_ [Shell companies bleed millions from Medicare](http://www.reuters.com/article/2011/12/21/us-shellcompanies-medicare-idUSTRE7BK0PY20111221) 2011.12.21
+* 
+* 
+
+[Dollars for Docs (by ProPublica)](http://www.propublica.org/series/dollars-for-docs)
+-----------------
+
