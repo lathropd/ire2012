@@ -39,6 +39,7 @@ State health regulator investigations
 ---------------
 * _The Morning Call_ [Hospital misprogrammed pain pumps, gave overdoses](http://articles.mcall.com/2012-01-27/news/mc-bethlehem-stlukes-overdose-20120126_1_overdose-medical-errors-patients) 2012.01.27
 * _The Dallas Morning News_ [First, do no harm](http://www.dallasnews.com/investigations/patient-safety/) ongoing
+* _California Watch_ [Prime Healthcare's treatment of rare ailments stands out](http://californiawatch.org/health-and-welfare/prime-healthcares-treatment-rare-ailments-stands-out-13021) 2011.10.14
 
 
  
@@ -85,7 +86,6 @@ IRE: http://www.ire.org/nicar/database-library/national-practitioner-data-bank/
 Medicare billing/discharge data
 --------------
 * _The Wall Street Journal_ [Excessive billing by NYC doctors](http://online.wsj.com/article/SB10001424052748704696304575538112856615900-search.html) 2010.10.25
-* _California Watch_ [Prime Healthcare's treatment of rare ailments stands out](http://californiawatch.org/health-and-welfare/prime-healthcares-treatment-rare-ailments-stands-out-13021) 2011.10.14
 
 
 Death certificates and autopsy findings
@@ -94,7 +94,7 @@ IRE: http://www.ire.org/nicar/database-library/databases/mortality-multiple-caus
 * _Seattle Times_  [Methadone and the Politics of Pain](http://seattletimes.nwsource.com/flatpages/specialreports/methadone/methadoneandthepoliticsofpain.html) 2011.12.10
 
 
-U.S. Drug Enforcement Administration called Automation of Reports and Consolidate Orders System (ARCOS)
+U.S. Drug Enforcement Administration Automation of Reports and Consolidated Orders System (ARCOS)
 ------------
 * _Seattle Times_  [Methadone and the Politics of Pain](http://seattletimes.nwsource.com/flatpages/specialreports/methadone/methadoneandthepoliticsofpain.html) 2011.12.10
 * _Investigate West_ [Deadly painkiller overdoses](http://www.invw.org/prescription-epidemic) 2012.01.22
