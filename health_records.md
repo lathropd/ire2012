@@ -17,11 +17,14 @@ HHS Office of the Inspector General audits and memos
 ---------------
 OIG: http://oig.hhs.gov/reports-and-publications/index.asp
 
+* _The Houston Chronicle_ http://tlangford.tumblr.com/
+
 
 Government Accoutability Office reports
 ------------
 GAO: http://www.gao.gov/search?advanced=1
 
+* _The Houston Chronicle_ http://tlangford.tumblr.com/
 
 
 State-level hospital discharge data
